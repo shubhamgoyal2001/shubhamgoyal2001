@@ -1,6 +1,6 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Shubham!](https://linkfree.eddiehub.io/AnshuPathak-88825) 
 
-A Fullstack Webdeveloper and Open source enthusiast from India :india:
+A Fullstack Webdeveloper :india:
 
 ## Socials:
 
